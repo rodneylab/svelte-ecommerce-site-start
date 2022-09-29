@@ -4,12 +4,11 @@
 	export let data: PageData;
 
 	const HERO_WIDTH = 1024;
-	const IMAGE_WIDTH = 512;
 </script>
 
 <svelte:head>
 	<title>Let&rsquo;s go Lego!</title>
-	<meta name="description" content="Let out your iner child!" />
+	<meta name="description" content="Let out your inner child!" />
 </svelte:head>
 
 <h1 class="screen-reader-text">Home</h1>
