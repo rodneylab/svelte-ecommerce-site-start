@@ -1,0 +1,4 @@
+{
+	"recommendations": ["graphql.vscode-graphql", "svelte.svelte-vscode"],
+	"unwantedRecommendations": []
+}

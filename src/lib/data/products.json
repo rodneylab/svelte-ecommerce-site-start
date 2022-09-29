@@ -1,0 +1,90 @@
+[
+	{
+		"slug": "batman",
+		"description": "Batman lego with figure with jetpack and harpoon.",
+		"name": "Batman",
+		"price": "400",
+		"sku": 8713093,
+		"gtin": "06638343840782"
+	},
+	{
+		"slug": "chicken-person",
+		"description": "Lego figure of person in a chicken outfit.",
+		"name": "Chicken Person",
+		"price": "400",
+		"sku": 3860740,
+		"gtin": "02169972198110"
+	},
+	{
+		"slug": "gandalf",
+		"description": "Gandalf the Grey lego figure.",
+		"name": "Gandalf",
+		"price": "500",
+		"sku": 6388144,
+		"gtin": "01294727515940"
+	},
+	{
+		"slug": "happy-birthday",
+		"description": "Lego figure child pair with baloons and sweets.",
+		"name": "Happy Birthday!",
+		"price": "900",
+		"sku": 6961413,
+		"gtin": "06435110666763"
+	},
+	{
+		"slug": "harry-potter",
+		"description": "Happy Potter figure with wand and owl.",
+		"name": "Harry Potter",
+		"price": "500",
+		"sku": 8480103,
+		"gtin": "09930180639763"
+	},
+	{
+		"slug": "luke-skywalker",
+		"name": "Luke Skywalker",
+		"description": "Luke Skywalker lego figure with light saber and R2-D2.",
+		"price": "1000",
+		"sku": 5875347,
+		"gtin": "05648225885351"
+	},
+	{
+		"slug": "minion",
+		"name": "Minion",
+		"description": "Minion lego figure with monocle in prison outfit.",
+		"price": "600",
+		"sku": 5795496,
+		"gtin": "07651809383332"
+	},
+	{
+		"slug": "r2d2-c3po",
+		"description": "R2-D2 and C-3PO lego figures.",
+		"name": "R2-D2 and C-3PO Pair",
+		"price": "1000",
+		"sku": 4014960,
+		"gtin": "04090056932765"
+	},
+	{
+		"slug": "spiderman",
+		"description": "Spiderman lego figure with swing rope.",
+		"name": "Spiderman",
+		"price": "600",
+		"sku": 7967348,
+		"gtin": "03918843028822"
+	},
+	{
+		"slug": "stormtrooper",
+		"description": "Stormtrooper lego figure.",
+		"name": "Stromtrooper",
+		"price": "500",
+		"sku": 6314654,
+		"gtin": "09867507661988"
+	},
+	{
+		"slug": "superman",
+		"description": "Superman lego figure",
+		"name": "Superman",
+		"price": "400",
+		"sku": 7503167,
+		"gtin": "07159914157591"
+	}
+]
