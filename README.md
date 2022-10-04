@@ -41,4 +41,5 @@ Pop open the <a aria-label="Open teh Demo Svelte eCommerce site demo" href="http
 - order fulfilment, though if you can integrate a service like <a aria-label="Learn more about print ful" href="https://www.printful.com/uk">Printful to help with fulfilment, packing and shipping</a>,
 - finding clients to build eCommerce sites for &mdash; that&rsquo;s down to you!
 
+## 😕 Still not sure if it&rsquo;s for you?
 Jump into the [Rodney Lab matrix chat room](https://matrix.to/#/%23rodney:matrix.org) to get your questions answered.
