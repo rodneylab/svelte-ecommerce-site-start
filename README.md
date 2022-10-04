@@ -1,5 +1,3 @@
-https://sveltekit-ecommerce-site.rodneylab.com/
-
 <img src="./images/rodneylab-github-svelte-ecommerce-site.png" alt="Rodney Lab svelte-ecommerce-site Github banner">
 
 <p align="center">
